@@ -3,4 +3,5 @@ __pycache__/
 .ipynb_checkpoints/
 disc-benchmark-files/base solutions/
 disc-benchmark-files/Untitled.ipynb
+disc-benchmark-files/*.pdf
 testing/
